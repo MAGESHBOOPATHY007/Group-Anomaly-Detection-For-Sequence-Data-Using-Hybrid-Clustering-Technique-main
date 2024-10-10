@@ -36,4 +36,3 @@ For model training, we will use Train.csv file to train and for prediction, we w
 
 Successfully Completed this project.
 
-![img.png](img.png)
