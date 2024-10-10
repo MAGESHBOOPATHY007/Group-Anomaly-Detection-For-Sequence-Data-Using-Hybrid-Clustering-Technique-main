@@ -8,8 +8,7 @@ through Deep Learning**.
 
 **INSTALLING**
 
-Download the project with:<br>
-git clone https://github.com/PragyaShukla2580/DeepLog.git <br>
+
 For training the model:<br>
 python LogKeyModel_train.py
 <br> For getting the predictions<br>
